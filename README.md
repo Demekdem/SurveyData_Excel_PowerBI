@@ -1,4 +1,4 @@
-# Interaktywnego dashboard w Power BI
+# Interaktywny dashboard w Power BI
 
 ## Opis:
 Projekt prezentuje analizę danych z ankiety przeprowadzonej wśród studentów EKAD, badającej związek między spożyciem używek a różnymi aspektami życia akademickiego, takimi jak średnia ocen, wydatki i ogólne zadowolenie.
