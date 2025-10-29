@@ -1,7 +1,7 @@
 # Interaktywny dashboard w Power BI
 
 ## Opis:
-Projekt prezentuje analizę danych z ankiety przeprowadzonej wśród studentów EKAD, badającej związek między spożyciem używek a różnymi aspektami życia akademickiego, takimi jak średnia ocen, wydatki i ogólne zadowolenie.
+Projekt prezentuje analizę danych z ankiety przeprowadzonej wśród studentów ekonometri i analityki danych, badającej związek między spożyciem używek a różnymi aspektami życia akademickiego, takimi jak średnia ocen, wydatki i ogólne zadowolenie.
 
 Ilustruje, jak analiza danych ankietowych może wspierać podejmowanie decyzji i wyciąganie wniosków w oparciu o zebrane informacje.
 
