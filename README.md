@@ -1,25 +1,28 @@
-# Analiza wpływu używek na życie studentów EKAD
+# Interaktywnego dashboard w Power BI
 
-Opis:
-Ten projekt prezentuje analizę danych z ankiety przeprowadzonej wśród studentów EKAD, badającej związek między spożyciem używek a różnymi aspektami życia akademickiego. Celem było sprawdzenie, czy nawyki związane z używkami (alkohol, papierosy itp.) wpływają na średnią ocen, wydatki oraz ogólne zadowolenie.
+## Opis:
+Projekt prezentuje analizę danych z ankiety przeprowadzonej wśród studentów EKAD, badającej związek między spożyciem używek a różnymi aspektami życia akademickiego, takimi jak średnia ocen, wydatki i ogólne zadowolenie.
 
-Proces realizacji:
+Ilustruje, jak analiza danych ankietowych może wspierać podejmowanie decyzji i wyciąganie wniosków w oparciu o zebrane informacje.
 
-1. Zbiór danych: Surowe dane pozyskano z ankiety Google Forms.
-2. Transformacja danych: Plik Excel został oczyszczony i przetworzony przy użyciu Power Query w programie Power BI, aby przygotować go do wizualizacji.
-3. Wizualizacja i raportowanie: Na podstawie przygotowanego modelu danych stworzono interaktywny raport w Power BI, który pozwala na wyciągnięcie kluczowych wniosków.
+## Etapy:
+1. Zbiór danych - surowe dane pozyskano z ankiety Microsoft Forms.
+2. Transformacja danych – oczyszczenie i przygotowanie danych w Excelu z użyciem Power Query w Power BI.
+3. Wizualizacja i raportowanie – interaktywny raport w Power BI pozwalający wyciągać kluczowe wnioski.
 
-Technologie: Microsoft Power BI, Power Query, Excel, Microsoft Forms.
+
 
 <img width="454" height="267" alt="image" src="https://github.com/user-attachments/assets/2c506d6c-406b-4d25-b5be-b7e2a1a48bf6" />
 
-Wnioski z ankiety: 
+## Wnioski z ankiety: 
 
-Alkohol a oceny: Istnieje zauważalna zależność między częstotliwością picia alkoholu a średnią ocen studentów.
+- Alkohol a oceny: częstsze spożycie alkoholu może korelować z niższą średnią ocen.
 
-Sport oszczędza pieniądze: Studenci regularnie uprawiający sport wydają znacznie mniej na używki miesięcznie.
+- Sport oszczędza pieniądze: studenci regularnie uprawiający sport wydają mniej na używki.
 
-Portfel studenta: Średni miesięczny wydatek na używki to około 97 zł.
+- Średnie wydatki: około 97 zł miesięcznie na używki.
 
-Zadowolenie: Średni poziom zadowolenia ze swojej konsumpcji używek wśród badanych to 2,92 w skali 5.
+- Zadowolenie: średni poziom zadowolenia z konsumpcji używek wynosi 2,92/5.
 
+
+**Technologie:** Microsoft Power BI, Power Query, Excel, Microsoft Forms.
